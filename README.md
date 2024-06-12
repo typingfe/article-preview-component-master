@@ -20,7 +20,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Built with
 
 - Semantic HTML5 markup
-- Tailwind CSS
+- JavaScript
 - Flexbox
 - Mobile-first workflow
 

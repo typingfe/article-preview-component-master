@@ -15,7 +15,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Link to my project](https://recipe-page-main-typingfe.vercel.app/)
+- Live Site URL: [Link to my project](https://article-preview-component-master-five-bice.vercel.app/)
 
 ### Built with
 

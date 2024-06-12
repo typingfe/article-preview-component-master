@@ -160,7 +160,7 @@ body {
 	margin-top: 3rem;
 }
 
-@media screen and (min-height: 768px) {
+@media screen and (min-width: 768px) {
 	.card {
 		display: flex;
 		max-width: 800px;
@@ -186,7 +186,7 @@ body {
 		margin: 0;
 	}
 
-	.card__popup::before {
+	.card__popup::after {
 		content: '';
 		width: 16px;
 		height: 16px;
